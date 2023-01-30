@@ -22,4 +22,8 @@ For suggestions on what to study first, open the Chrome DevTools by right-clicki
 
 ## Credits
 
-[Instructions:](https://courses.bootcampspot.com/courses/3206/pages/3-dot-5-3-create-a-professional-project-readme?module_item_id=823896)
+[Instructions](https://courses.bootcampspot.com/courses/3206/pages/3-dot-5-3-create-a-professional-project-readme?module_item_id=823896)
+
+## License
+
+Please refer to the LICENSE in the repo.
